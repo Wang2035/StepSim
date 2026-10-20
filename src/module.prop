@@ -1,0 +1,5 @@
+name=StepSim
+author=stepsim
+description=Step frequency simulator
+minApiVersion=101
+targetApiVersion=102
